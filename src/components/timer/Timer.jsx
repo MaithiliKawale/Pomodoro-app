@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import CircularProgress from "./circularProgress/circularProgress";
+import CircularProgress from "./circularProgress/CircularProgress";
 
 const Timer = () => {
   return (
