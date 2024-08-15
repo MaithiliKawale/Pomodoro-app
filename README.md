@@ -57,6 +57,7 @@ pomodoro-app/
 ├── .gitignore
 ├── package.json
 └── README.md
+```
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue.
