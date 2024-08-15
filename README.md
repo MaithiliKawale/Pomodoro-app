@@ -43,7 +43,7 @@ Currently, two official plugins are available:
 - **Framer Motion:** For adding animations and smooth transitions.
 
 ## Project Structure
-```Project-structure
+```bash
 pomodoro-app/
 │
 ├── public/
